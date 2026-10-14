@@ -1,0 +1,244 @@
+{
+  "respondentCount": 100,
+  "profile": {
+    "age": {
+      "17-25 Tahun": 89,
+      "26-35 Tahun": 7,
+      "36-45 Tahun": 2,
+      "56-65 Tahun": 1,
+      "46-55 Tahun": 1
+    },
+    "gender": {
+      "Laki-Laki": 38,
+      "Perempuan": 62
+    },
+    "group": {
+      "Mahasiswa": 76,
+      "remaja jompo": 1,
+      "Pekerja Kantor": 8,
+      "Suka ngopi": 1,
+      "Peminum Teh Rutin": 6,
+      "Ibu rmh tangga": 1,
+      "-": 1,
+      "CEO BANK": 1,
+      "CEO": 1,
+      "Lansia": 2,
+      "ibu rumah tangga": 1,
+      "Aktor": 1
+    }
+  },
+  "kano": [
+    {
+      "attribute": "Kenyamanan Genggaman",
+      "A": 18,
+      "O": 25,
+      "M": 21,
+      "I": 29,
+      "R": 2,
+      "Q": 5,
+      "category": "I",
+      "validKano": 93,
+      "better": 0.46236559139784944,
+      "worse": -0.4946236559139785,
+      "gap": 0.956989247311828,
+      "rank": 6
+    },
+    {
+      "attribute": "Aksesibilitas bagi Keterbatasan Motorik",
+      "A": 17,
+      "O": 32,
+      "M": 15,
+      "I": 31,
+      "R": 2,
+      "Q": 3,
+      "category": "O",
+      "validKano": 95,
+      "better": 0.5157894736842106,
+      "worse": -0.49473684210526314,
+      "gap": 1.0105263157894737,
+      "rank": 4
+    },
+    {
+      "attribute": "Tampilan Menarik",
+      "A": 25,
+      "O": 17,
+      "M": 7,
+      "I": 48,
+      "R": 1,
+      "Q": 2,
+      "category": "I",
+      "validKano": 97,
+      "better": 0.4329896907216495,
+      "worse": -0.24742268041237114,
+      "gap": 0.6804123711340206,
+      "rank": 9
+    },
+    {
+      "attribute": "Mudah dibersihkan",
+      "A": 17,
+      "O": 39,
+      "M": 19,
+      "I": 19,
+      "R": 0,
+      "Q": 6,
+      "category": "O",
+      "validKano": 94,
+      "better": 0.5957446808510638,
+      "worse": -0.6170212765957447,
+      "gap": 1.2127659574468086,
+      "rank": 1
+    },
+    {
+      "attribute": "Minim risiko tumpah",
+      "A": 21,
+      "O": 33,
+      "M": 14,
+      "I": 27,
+      "R": 0,
+      "Q": 5,
+      "category": "O",
+      "validKano": 95,
+      "better": 0.5684210526315789,
+      "worse": -0.49473684210526314,
+      "gap": 1.063157894736842,
+      "rank": 3
+    },
+    {
+      "attribute": "Stabil saat diletakkan",
+      "A": 20,
+      "O": 33,
+      "M": 19,
+      "I": 25,
+      "R": 0,
+      "Q": 3,
+      "category": "O",
+      "validKano": 97,
+      "better": 0.5463917525773195,
+      "worse": -0.5360824742268041,
+      "gap": 1.0824742268041236,
+      "rank": 2
+    },
+    {
+      "attribute": "Pilihan warna",
+      "A": 25,
+      "O": 14,
+      "M": 2,
+      "I": 55,
+      "R": 1,
+      "Q": 3,
+      "category": "I",
+      "validKano": 96,
+      "better": 0.40625,
+      "worse": -0.16666666666666666,
+      "gap": 0.5729166666666666,
+      "rank": 11
+    },
+    {
+      "attribute": "Bahan keramik foodgrade aman microwave",
+      "A": 32,
+      "O": 27,
+      "M": 8,
+      "I": 27,
+      "R": 3,
+      "Q": 3,
+      "category": "A",
+      "validKano": 94,
+      "better": 0.6276595744680851,
+      "worse": -0.3723404255319149,
+      "gap": 1,
+      "rank": 5
+    },
+    {
+      "attribute": "Lapisan anti-slip di dasar",
+      "A": 34,
+      "O": 16,
+      "M": 11,
+      "I": 36,
+      "R": 0,
+      "Q": 3,
+      "category": "I",
+      "validKano": 97,
+      "better": 0.5154639175257731,
+      "worse": -0.27835051546391754,
+      "gap": 0.7938144329896907,
+      "rank": 7
+    },
+    {
+      "attribute": "Dimensi produk",
+      "A": 19,
+      "O": 23,
+      "M": 8,
+      "I": 46,
+      "R": 0,
+      "Q": 3,
+      "category": "I",
+      "validKano": 96,
+      "better": 0.4375,
+      "worse": -0.3229166666666667,
+      "gap": 0.7604166666666667,
+      "rank": 8
+    },
+    {
+      "attribute": "Sekat infuser built in",
+      "A": 23,
+      "O": 17,
+      "M": 5,
+      "I": 53,
+      "R": 1,
+      "Q": 1,
+      "category": "I",
+      "validKano": 98,
+      "better": 0.40816326530612246,
+      "worse": -0.22448979591836735,
+      "gap": 0.6326530612244898,
+      "rank": 10
+    }
+  ],
+  "sourceSheets": [
+    [
+      "Form Responses 1",
+      101,
+      27
+    ],
+    [
+      "Numbering",
+      101,
+      27
+    ],
+    [
+      "Sheet1",
+      102,
+      22
+    ],
+    [
+      "Matriks_Kano",
+      7,
+      7
+    ],
+    [
+      "Hasil_Kano",
+      102,
+      13
+    ],
+    [
+      "Ringkasan_Kano",
+      13,
+      15
+    ]
+  ],
+  "profileNotes": {
+    "genderMissing": 0,
+    "ageMissing": 0,
+    "groupMissing": 0,
+    "duplicateFullRows": 0,
+    "uniqueTimestamps": 100
+  },
+  "kanoCategories": {
+    "A": "Attractive",
+    "O": "One-dimensional",
+    "M": "Must-be",
+    "I": "Indifferent",
+    "R": "Reverse",
+    "Q": "Questionable"
+  }
+}
